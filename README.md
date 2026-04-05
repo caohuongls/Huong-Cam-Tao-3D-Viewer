@@ -2,7 +2,7 @@
 
 ---
 
-## I. Upload File từ Máy Tính - Tương tự Dentalshare Exocad
+## I. Upload File từ Máy Tính và lấy link - Tương tự Dentalshare Exocad
 
 Để đưa file từ phần mềm thiết kế (Exocad) lên hệ thống, bạn sử dụng công cụ **Huong Cam Tao Viewer**.
 
@@ -21,9 +21,9 @@
    
    
    3. Vận hành
-   - Sau khi thiết lập, công cụ sẽ chạy ẩn dưới thanh Taskbar (biểu tượng logo Cam Táo) và sẽ tự động quét và upload các file đủ điều kiện
-   - Khi muốn gửi file để xem trước. Trong Exocad Vào mục **Tool - Export html** . Lưu file **html** vào thư mục bên trong dự án Exocad đang làm.
-   - Mỗi khi xuất hiện file html mới trong Exocad, công cụ sẽ tự động nhận diện và tải lên server. Trung bình dưới 10s sẽ có thông báo gửi về và cung cấp đường dẫn link và tự động lưu link vào bộ nhớ tạm.
+   - Sau khi thiết lập, công cụ sẽ chạy ẩn dưới thanh Taskbar (biểu tượng logo Cam Táo) và sẽ tự động xử lý
+   - Khi muốn gửi file để xem trước. Trong Exocad Vào mục **Tool - Export html** . Lưu file **html** vào thư mục bên trong dự án Exocad đang làm. Lưu ý: Tên file sẽ là tiêu đề của dự án.
+   - Phần mềm sẽ xử lý file html vừa lưu. Trung bình dưới 10s sẽ có thông báo gửi về và cung cấp đường dẫn link và tự động lưu link vào bộ nhớ tạm.
 
 
        <img width="361" height="179" alt="image" src="https://github.com/user-attachments/assets/a8179266-b20d-44fc-979b-c7bc3e12d4c8" />
