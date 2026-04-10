@@ -50,12 +50,13 @@ Với các bác muốn tùy chỉnh chuyên sâu thì cần đăng nhập websit
 
 Giao diện được tối ưu hóa hoàn toàn cho màn hình cảm ứng,PC tương tự Exocad Webview nhưng xịn xò hơn :))
 
-### Thao tác điều khiển 3D (Trên mobile): Về cơ bản giống Exocad Webview.
+### Thao tác điều khiển 3D: Về cơ bản giống Exocad Webview.
 - **Xoay quanh tâm**: Dùng 1 ngón tay di chuyển trên màn hình.
+- **Di chuyển về tâm** : Nhấn giữ 1 ngón tay tại điểm cần về giữa màn hình
 - **Phóng to/Thu nhỏ**: Dùng 2 ngón tay chụm/mở (Pinch to zoom).
 - **Xoay tròn**: Dùng 2 ngón tay xoay
 - **Di chuyển** : Nhấn giữ 2 ngón
-
+- **3DConnexion**: Xoay mẫu 3D bằng chuột 3DConnexion.
 ### Một số tính năng chính: 
 <img width="1080" height="176" alt="image" src="https://github.com/user-attachments/assets/7d883265-fce0-4b1d-a143-e9bd8d1bcf3f" />
 
