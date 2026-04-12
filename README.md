@@ -10,10 +10,11 @@
    1. Tải và mở file `Huong_Cam_Tao_Viewer.exe` trên máy tính. Lưu file ở 1 vị trí cố định trên máy tính, ưu tiên tạo 1 thư mục riêng để chứa các thông tin config.
    2. Cấu hình
    
-      <img width="523" height="765" alt="image" src="https://github.com/user-attachments/assets/7ae3420d-00dc-4aa5-bf79-0894e9fb2a7c" />
-   
+      
+   <img width="500" height="738" alt="image" src="https://github.com/user-attachments/assets/0605e48f-ab5e-4208-aca4-5923bd0dd6f2" />
+
       Nhập các trường thông tin:
-      - **Server Address**: Địa chỉ web của hệ thống (mặc đinh hiện tại là: `https://caohuongls.pythonanywhere.com`). Trong  tương lai sẽ điều chỉnh lại nếu cần.
+      - **Server Address**: Địa chỉ web của hệ thống (mặc đinh hiện tại là: `https://huongcamtao3d.freeddns.org` ( Sẽ điều chỉnh lại khi cần thiết)
       - **Username/Password**: Tài khoản được cung cấp. **Tài khoản thử nghiệm: demo/12345**
       - **Watch Folder**: Chọn thư mục chứa các file thiết kế của bạn (thường là thư mục CAD-Data của Exocad).
       - **Sync Start Date**: Chọn ngày bắt đầu đồng bộ (các file  html cũ trước ngày này sẽ không bị đẩy lên).
